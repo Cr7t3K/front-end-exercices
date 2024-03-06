@@ -1,0 +1,6 @@
+# Exclure tous les dossiers
+*/
+.DS_Store
+
+# Autoriser les fichiers .zip
+!*.zip
